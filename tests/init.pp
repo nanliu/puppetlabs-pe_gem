@@ -1,4 +1,4 @@
 package { 'json':
-  ensure => present,
+  ensure   => present,
   provider => pe_gem,
 }
